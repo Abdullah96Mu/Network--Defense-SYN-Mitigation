@@ -17,6 +17,6 @@
 النتيجة الأولى: (Increased Attacker Resource Consumption): ظهور حزم (TCP Retransmission) بكثافة عند المراقبة مما يثبت ان المهاجم استنزف موارده واانه مجبر على اعادة المحاولات دون تلقي رد من الويندوز (الضحية).
 النتيجة الثانية: (Service Obfuscation): تغير حالة المنافذ في "Nmap" إلى "Filtered".
 ![Wireshark Retransmission](images/Firewall_Rule.png)
-![Nmap Filtered Result](images/Filtered_Scan.jpg)
+![Nmap Filtered Result](images/Filtered_Scan.png)
 ## 5. الخُلاصة الفنية (Technical Conclusion)
 أثبتت نجاح استراتيجية الدفاع من خلال مراقبة سلوك الـ (TCP Retransmission)، حيث أدى الحظر إلى إجبار المهاجم على تكرار محاولات الاتصال دون تلقي أي استجابة من نظام ويندوز (Silent Drop).
