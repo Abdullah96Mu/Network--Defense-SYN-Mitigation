@@ -9,7 +9,7 @@
 
 أنشَأتُ قاعدة مخصصة في جدار الحماية (Windows Firewall) لحتى احظر جميع الاتصالات الواردة من الآيبي المهاجم.
   ## الصور بالاسفل تشرح خطوات انشاء قاعدة مخصصة (اختيارية)
-  ![Firewall Securtiy](images/firewall_config_1.png)
+  ![Firewall Securtiy](images/firewall_config_1.jpg)
   ![Firewall Securtiy](images/firewall_config_2.png)
 
  # 4. تحليل ما بعد الحظر (Post-Mitigation Analysis) 
