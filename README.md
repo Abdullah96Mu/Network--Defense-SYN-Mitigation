@@ -3,8 +3,8 @@
 ## 2. مرحلة الكشف (Detection Phase):
 
 النتيجة: Targeted Reconnaissance) (Identified: تم رصد محاولة مسح منافذ منظمة من العنوان '10.143.139.180' تستهدف الخدمات الحساسة.
-![Nmap Stealth Scan](Stealth_Scan.jpg)
-![Wireshark Detection](Detection_Attack.png)
+![Nmap Stealth Scan](images/Stealth_Scan.png)
+![Wireshark Detection](images/Detection_Attack.png)
 ## 3. إجراءات الحماية (Mitigation Steps):
 
 الإجراء: أنشَأتُ قاعدة مخصصة في جدار الحماية (Windows Firewall) لحتى احظر جميع الاتصالات الواردة من الآيبي المهاجم.
